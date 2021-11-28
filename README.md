@@ -1,1 +1,1 @@
-# HTML-News-Grid
+# news-grid
